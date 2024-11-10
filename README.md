@@ -1,1 +1,1 @@
-# BTCPredictionBot
+This project is a Cryptocurrency Prediction Bot that can make price predictions of a cryptocurrency within a certain date range or in the future days. It is developed using Python and LSTM (Long Short Term Memory) model and works on price predictions of cryptocurrencies such as Bitcoin (BTC).
